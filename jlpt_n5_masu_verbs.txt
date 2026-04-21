@@ -1,0 +1,133 @@
+#separator:tab
+#html:false
+#notetype:Basic (and reversed card)
+#columns:Front	Back
+会います（あいます）	会う（あう）- to meet
+遊びます（あそびます）	遊ぶ（あそぶ）- to play
+洗います（あらいます）	洗う（あらう）- to wash
+あります	ある - to exist (things)
+歩きます（あるきます）	歩く（あるく）- to walk
+言います（いいます）	言う（いう）- to say
+行きます（いきます）	行く（いく）- to go
+要ります（いります）	要る（いる）- to need
+歌います（うたいます）	歌う（うたう）- to sing
+売ります（うります）	売る（うる）- to sell
+置きます（おきます）	置く（おく）- to put/place
+押します（おします）	押す（おす）- to push/press
+泳ぎます（およぎます）	泳ぐ（およぐ）- to swim
+終わります（おわります）	終わる（おわる）- to end
+買います（かいます）	買う（かう）- to buy
+返します（かえします）	返す（かえす）- to return (something)
+帰ります（かえります）	帰る（かえる）- to go home
+かかります	かかる - to take (time/money)
+書きます（かきます）	書く（かく）- to write
+貸します（かします）	貸す（かす）- to lend
+被ります（かぶります）	被る（かぶる）- to wear (hat)
+聞きます（ききます）	聞く（きく）- to listen/ask
+切ります（きります）	切る（きる）- to cut
+曇ります（くもります）	曇る（くもる）- to become cloudy
+消します（けします）	消す（けす）- to turn off/erase
+困ります（こまります）	困る（こまる）- to be troubled
+咲きます（さきます）	咲く（さく）- to bloom
+差します（さします）	差す（さす）- to open (umbrella)
+死にます（しにます）	死ぬ（しぬ）- to die
+閉まります（しまります）	閉まる（しまる）- to close (intransitive)
+知ります（しります）	知る（しる）- to know
+吸います（すいます）	吸う（すう）- to smoke/inhale
+住みます（すみます）	住む（すむ）- to live/reside
+座ります（すわります）	座る（すわる）- to sit
+出します（だします）	出す（だす）- to take out/submit
+立ちます（たちます）	立つ（たつ）- to stand
+頼みます（たのみます）	頼む（たのむ）- to request/ask
+違います（ちがいます）	違う（ちがう）- to differ/be wrong
+使います（つかいます）	使う（つかう）- to use
+着きます（つきます）	着く（つく）- to arrive
+作ります（つくります）	作る（つくる）- to make
+飛びます（とびます）	飛ぶ（とぶ）- to fly/jump
+止まります（とまります）	止まる（とまる）- to stop (intransitive)
+撮ります（とります）	撮る（とる）- to take (photo)
+取ります（とります）	取る（とる）- to take/get
+鳴ります（なります）	鳴る（なる）- to ring/sound
+なります	なる - to become
+習います（ならいます）	習う（ならう）- to learn
+脱ぎます（ぬぎます）	脱ぐ（ぬぐ）- to take off (clothes)
+登ります（のぼります）	登る（のぼる）- to climb
+飲みます（のみます）	飲む（のむ）- to drink
+乗ります（のります）	乗る（のる）- to ride/get on
+入ります（はいります）	入る（はいる）- to enter
+履きます（はきます）	履く（はく）- to wear (shoes/pants)
+始まります（はじまります）	始まる（はじまる）- to begin (intransitive)
+走ります（はしります）	走る（はしる）- to run
+働きます（はたらきます）	働く（はたらく）- to work
+話します（はなします）	話す（はなす）- to speak/talk
+貼ります（はります）	貼る（はる）- to stick/paste
+引きます（ひきます）	引く（ひく）- to pull/play (instrument)
+降ります（ふります）	降る（ふる）- to fall (rain/snow)
+曲がります（まがります）	曲がる（まがる）- to turn/bend
+待ちます（まちます）	待つ（まつ）- to wait
+磨きます（みがきます）	磨く（みがく）- to brush/polish
+持ちます（もちます）	持つ（もつ）- to hold/have
+もらいます	もらう - to receive
+休みます（やすみます）	休む（やすむ）- to rest/take a day off
+やります	やる - to do
+呼びます（よびます）	呼ぶ（よぶ）- to call (someone)
+読みます（よみます）	読む（よむ）- to read
+分かります（わかります）	分かる（わかる）- to understand
+渡ります（わたります）	渡る（わたる）- to cross
+渡します（わたします）	渡す（わたす）- to hand over
+開けます（あけます）	開ける（あける）- to open
+上げます（あげます）	上げる（あげる）- to give/raise
+浴びます（あびます）	浴びる（あびる）- to take a shower
+います	いる - to exist (living things)
+入れます（いれます）	入れる（いれる）- to put in/insert
+生まれます（うまれます）	生まれる（うまれる）- to be born
+起きます（おきます）	起きる（おきる）- to wake up/get up
+教えます（おしえます）	教える（おしえる）- to teach/tell
+降ります（おります）	降りる（おりる）- to get off/descend
+覚えます（おぼえます）	覚える（おぼえる）- to remember/memorize
+変えます（かえます）	変える（かえる）- to change (something)
+かけます	かける - to make a phone call
+借ります（かります）	借りる（かりる）- to borrow
+消えます（きえます）	消える（きえる）- to disappear/go out
+着ます（きます）	着る（きる）- to wear (upper body)
+くれます	くれる - to give (to me/us)
+閉めます（しめます）	閉める（しめる）- to close (transitive)
+調べます（しらべます）	調べる（しらべる）- to investigate/look up
+捨てます（すてます）	捨てる（すてる）- to throw away
+食べます（たべます）	食べる（たべる）- to eat
+足ります（たります）	足りる（たりる）- to be enough
+疲れます（つかれます）	疲れる（つかれる）- to get tired
+つけます	つける - to turn on/attach
+出かけます（でかけます）	出かける（でかける）- to go out
+できます	できる - to be able to/be ready
+出ます（でます）	出る（でる）- to exit/leave
+止めます（とめます）	止める（とめる）- to stop (transitive)
+並べます（ならべます）	並べる（ならべる）- to line up/arrange
+寝ます（ねます）	寝る（ねる）- to sleep/go to bed
+始めます（はじめます）	始める（はじめる）- to start (transitive)
+見えます（みえます）	見える（みえる）- to be visible
+見せます（みせます）	見せる（みせる）- to show
+見ます（みます）	見る（みる）- to see/watch/look
+迎えます（むかえます）	迎える（むかえる）- to welcome/go to meet
+忘れます（わすれます）	忘れる（わすれる）- to forget
+来ます（きます）	来る（くる）- to come
+します	する - to do
+勉強します（べんきょうします）	勉強する（べんきょうする）- to study
+散歩します（さんぽします）	散歩する（さんぽする）- to take a walk
+掃除します（そうじします）	掃除する（そうじする）- to clean
+洗濯します（せんたくします）	洗濯する（せんたくする）- to do laundry
+料理します（りょうりします）	料理する（りょうりする）- to cook
+買い物します（かいものします）	買い物する（かいものする）- to go shopping
+電話します（でんわします）	電話する（でんわする）- to make a phone call
+結婚します（けっこんします）	結婚する（けっこんする）- to marry
+コピーします	コピーする - to copy
+心配します（しんぱいします）	心配する（しんぱいする）- to worry
+旅行します（りょこうします）	旅行する（りょこうする）- to travel
+練習します（れんしゅうします）	練習する（れんしゅうする）- to practice
+運動します（うんどうします）	運動する（うんどうする）- to exercise
+食事します（しょくじします）	食事する（しょくじする）- to have a meal
+仕事します（しごとします）	仕事する（しごとする）- to work (job)
+紹介します（しょうかいします）	紹介する（しょうかいする）- to introduce
+質問します（しつもんします）	質問する（しつもんする）- to ask a question
+説明します（せつめいします）	説明する（せつめいする）- to explain
+約束します（やくそくします）	約束する（やくそくする）- to promise
